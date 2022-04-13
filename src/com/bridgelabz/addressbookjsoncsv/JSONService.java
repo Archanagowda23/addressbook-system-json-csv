@@ -18,7 +18,7 @@ import com.google.gson.reflect.TypeToken;
 /**
  * create a class name as JSONService
  */
-public class JSONService {
+public class JsonService {
     /**
      * create a variable and STRING_ARRAY_SAMPLE varible assign the addressBook.json
      */
