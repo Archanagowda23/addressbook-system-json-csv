@@ -19,7 +19,7 @@ import com.opencsv.bean.StatefulBeanToCsvBuilder;
 import com.opencsv.exceptions.CsvDataTypeMismatchException;
 import com.opencsv.exceptions.CsvRequiredFieldEmptyException;
 
-public class OpenCSVService {
+public class OpenCsvService {
     private static final String STRING_ARRAY_SAMPLE = "addressBook.csv";
 
     // Writing to CSV
