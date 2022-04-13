@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 /**
  * crete a class name as AddressBookFileNIO
  */
-public class AddressBookFileNIO {
+public class AddressBookFile {
     /**
      * crete a addressbook path
      */
